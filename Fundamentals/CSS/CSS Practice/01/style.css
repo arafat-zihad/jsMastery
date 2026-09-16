@@ -1,0 +1,44 @@
+/* 1 : dashboard should have a maximum width of 1100px*/
+
+* {
+  box-sizing: border-box;
+}
+.dashboard {
+  width: 1100px;
+  padding: 24px;
+}
+
+.dashboard__header {
+  border: 2px solid green;
+  padding: 8px;
+}
+
+.dashboard__eyebrow {
+  margin-bottom: 8px;
+}
+
+.dashboard__header h1 {
+  margin: 0 0 12px 0;
+}
+.dashboard__description {
+  margin: 0 0 20px 0;
+}
+
+.dashboard__action {
+  display: block;
+  margin-top: 10px;
+  padding: 10px 16px;
+}
+
+.course-card {
+  border-left: 2px solid red;
+  /* border: 2px solid red; */
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.course-grid {
+  margin: 20px 0 0 0;
+ 
+}
+
