@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    box-sizing: border-box;
+    
+}
+
+.box-one {
+    background-color: rgb(189, 64, 64);
+    border: 20px solid darkorchid;
+    padding: 20px;
+    margin: 20px;
+    height: 100px;
+    max-width: 100px;
+}
+
+.box-two {
+    background-color: rgb(70, 96, 223);
+    border: 20px solid rgb(31, 146, 31);
+    padding: 20px;
+    margin: 20px;
+    height: 100px;
+    max-width: 100px;
+}
